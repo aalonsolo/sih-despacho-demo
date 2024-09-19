@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-list-view</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="topNav-item-active" fill="#004481">
+            <path d="M0,2.08695652 L0,0 L2.08695652,0 L2.08695652,2.08695652 L0,2.08695652 Z M0,6.61773913 L0,4.48904348 L2.12034783,4.48904348 L2.12034783,6.61773913 L0,6.61773913 Z M0,11.1304348 L0,9.04347826 L2.08695652,9.04347826 L2.08695652,11.1304348 L0,11.1304348 Z M4.17391304,0 L16,0 L13.9084914,2.08695652 L4.17391304,2.08695652 L4.17391304,0 Z M11.826087,6.60869565 L4.19965217,6.60869565 L4.19965217,4.52173913 L13.9130435,4.52173913 L11.826087,6.60869565 Z M4.17391304,9.04347826 L16,9.04347826 L13.9084914,11.1304348 L4.17391304,11.1304348 L4.17391304,9.04347826 Z" id="icon-list-view"></path>
+        </g>
+    </g>
+</svg>

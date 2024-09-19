@@ -1,0 +1,16 @@
+{
+    "contentStatus": [{"c":[[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0],[0,0,0,0,0,0]]}],
+    "courseSuccess":"unknown", 
+    "courseCompleted": true,
+    "lan": "es",
+    "location": "0:0:0",
+    "attemps": 0,
+    "decisionAnswers": {},
+    "workbook": {},
+    "minesWeeperAnswers": {},
+    "testUserAnswers": {
+        "0.2":[
+
+        ]
+    }
+}

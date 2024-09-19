@@ -1,0 +1,48 @@
+{
+    "PERCENTAGE_SUCCESS": 60,
+    "TEST_FINAL_PROPORTION": [],
+    "MAX_ATTEMPS": 2,
+    "MENU_TOOLTIP_TIMES": 1,
+    "ACTIVITY_TUTORIAL_TOOLTIP_TIMES": 3,
+    "show_timeline": false,
+    "show_header": true,
+    "show_menu": false,
+    "show_module_status": false,
+    "show_progress_header": true,
+    "show_logo_header": true,
+    "show_back_netflix": false,
+    "show_lang_header": true,
+    "header": {
+        "show": true,
+        "show_logo": true,
+        "show_ico": true,
+        "show_section": true,
+        "mod_menu": true,
+        "show_lang": false
+    },
+   
+    "intro_module_completed_state": false,
+    "free_navigation": false,
+    "langs": [
+        {
+            "code": "es",
+            "display": "ES",
+            "src_sufix": ""
+        }
+    ],
+    "video": {
+        "path": "",
+        "poster":""
+    },
+    "decisions": {
+        "active": false,
+        "mode": 1,
+        "total_answers_value": 25,
+        "total_answers_questions": 5,
+        "hidebird": true,
+        "description": "MODE: 0->only one try, 1->better answer"
+    },
+    "glosary": {
+        "active": false
+    }
+}

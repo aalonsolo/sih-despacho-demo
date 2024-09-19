@@ -1,0 +1,1889 @@
+{
+    "modules": [
+        {
+            "id": "0",
+            "status": 0,
+            "mod_menu": {
+                "id_text": "TEMPORADA"
+            },
+            "title": "PROCESOS COMERCIALES",
+            "description": "",
+            "type": "MODULE",
+            "catalogue": {
+                "ignore": false,
+                "ignore_childs": false
+            },
+            "mod_navigation": {
+                "nextModule": "1"
+            },
+            "childrens": [
+                
+                {
+                    "id": "0.0",
+                    "type": "SECTION",
+                    "status": 0,
+                    "menu_section": {
+                        "ico": "",
+                        "img_bg": "0-0-cover.jpg"
+                    },
+                    "title": "4.3 Segmentación del mercado",
+                    "activities": [
+                      {
+                        "id": "0.0.0",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "",
+                        
+                        "title_css": "",
+                        "pretitle": {
+                          "pretitle": "",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                         
+                            {
+                              "b_type": "image",
+                              "b_title":"",
+                              "b_img": {
+                                "path": "logo_proyecto.png",
+                                "width": "",
+                                "height": "",
+                                "zoom": false
+                              },
+                              "css": "col-12 col-lg-8 centered  "
+                            },
+                            {
+                              "b_type":" ",
+                              "b_title":"<font color='#2a2828'>TEMPORADA<br><h1> PROCESOS COMERCIALES</font></h1>",
+                              "css_title":"",
+                              "b_text": [
+                                {
+                                  "b_line": "<h2><font color='#FFFFFF'>Capítulo 3: Segmentación del mercado</font></h2>  "
+                                }
+                              ],
+                              "css": "col-12 col-lg-6 ps-color-transparent mt-1 centered p-5"
+                            }
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                  },
+                  {
+                      "id": "0.0.1  ",
+                      "type": "CONTENT",
+                      "type_content": "ACTIVITY_CONTENT",
+                      "status": 0,
+                      "layout": "layout-horizontal",
+                      "title": "<audio controls autoplay><source src='prj/audio/4.3-segmentacion.mp3' type='audio/mp3'></audio>",
+                      
+                      "title_css": "justify-content-center",
+                      "pretitle": {
+                        "pretitle": "",
+                        "pretitle_css": ""
+                      },
+                      "content": {
+                        "c_type": "layout1",
+                        "c_subtitle": "",
+                        "c_block": [
+                       
+                          {
+                            "b_type": "image",
+                            "b_title":"",
+                            "b_img": {
+                              "path": "0-0-1-image.png",
+                              "width": "",
+                              "height": "",
+                              "zoom": false
+                            },
+                            "css": "col-12 col-lg-6 centered  "
+                          },
+                          {
+                            "b_type":" ",
+                            "b_title":"<h1><font color='#97bf0d'>CONTENIDOS</font></h1>",
+                            "css_title":"",
+                            "b_text": [
+                              {
+                                "b_line": "<font color='#FFFFFF'><strong>SEGMENTACIÓN DEL MERCADO</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              },
+                              {
+                                "b_line": "<font color='#FFFFFF'><strong>EJECUCIÓN: DÓNDE</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              },
+                             {
+                                "b_line": "<font color='#FFFFFF'><strong>EJECUCIÓN: CUÁNTO</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              },
+                              {
+                                "b_line": "<font color='#FFFFFF'><strong>EJECUCIÓN: QUIÉN</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              },
+                              {
+                                "b_line": "<font color='#FFFFFF'><strong>CANALES</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              },
+                              {
+                                "b_line": "<font color='#FFFFFF'><strong>EJECUCIÓN: CÓMO</strong></font>  ",
+                                "b_css":"ps-color-transparent mb-5"
+                              }
+                            ],
+                            "css": "col-12 col-lg-6  mt-1 centered p-5"
+                          }
+                        ],
+                        "css": "align-items-center justify-content-center"
+                      }
+                  },
+                 
+                          {
+                            "id": "0.0.2",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<font color='#205527'>SEGMENTACIÓN DEL MERCADO</font>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "SEGMENTACIÓN",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-1-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-6"
+                                },
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-1-image01.png",
+                                        "width": "1400",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12  centered"
+                                },
+                                {
+                                    "b_type": "featured featured-light ",
+                                    "b_text": [
+                                        {
+                                            "b_line": "<font color=\"#00000\">Nº DE <strong>PUNTOS DE VENTAS</strong> DE NUESTRA BBDD</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-5 px-4 px-xl-6 cmb-5 centered cmr-lg-2 cml-lg-3"
+                                },
+                                {
+                                    "b_type": "featured featured-box",
+                                    "b_text": [
+                                        {
+                                            "b_line": "<font color=\"#00000\">Nº DE <strong>IRON CAPs</strong> y <strong>RESP. ZONAS</strong></font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-5 px-4 px-xl-6 cmb-5 centered cmr-lg-2 cml-lg-3"
+                                },
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": "<h2><font color='#205527'>¿Podemos llegar a todos los puntos de venta?</font></h2>"
+                                        }
+                                    ],
+                                    "css": "col-12 centered"
+                                },
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-1-image02.png",
+                                        "width": "100",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 centered"
+                                },
+                                {
+                                    "b_type": "featured featured-box",
+                                    "b_text": [
+                                        {
+                                            "b_line": "<font color=\"#00000\">Tener <font color=\"#7ab800\"><strong>UNA SEGMENTACIÓN de calidad y actualizada</strong></font> es el primer paso para garantizar una <font color=\"#7ab800\"><strong>EXCELENTE EJECUCIÓN EN EL MERCADO</strong></font>.</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-lg-8 py-3 cmt-lg-3 centered"
+                                }
+                                
+                            ],
+                            "css": "align-items-center justify-content-center"
+                        }
+                        },
+                        {
+                            "id": "0.0.3",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<font color='#205527'>Y así es nuestra SEGMENTACIÓN completa:</font>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "SEGMENTACIÓN",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                {
+                                  "b_type": "image",
+                                  "b_img": {
+                                    "path": "0-2-1-image.png",
+                                    "width": "",
+                                    "height": "",
+                                    "zoom": false
+                                  },
+                                  "css": "col-12 col-lg-8"
+                                }
+                              ],
+                              "css": "align-items-center justify-content-center"
+                            }
+                        },
+                        {
+                            "id": "0.0.4",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<center><font color='#205527'>¿DÓNDE EJECUTAMOS?</font></center>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "EJECUCIÓN: DÓNDE",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "0-2-2-image1.png",
+                                        "width": "2000",
+                                        "height": "130",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12"
+                                }
+                              ],
+                              "css": "align-items-center justify-content-center"
+                            }
+                        },
+                        {
+                            "id": "0.0.5",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<center><font color='#205527'>CATEGORIZACIÓN SEGÚN FORMATOS Y EXCLUSIVIDAD CERVEZA</font></center>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "EJECUCIÓN: DÓNDE",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": ""
+                                        }
+                                    ],
+                                    "css": "col-12 centered"
+                                }, 
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-4-image.png",
+                                        "width": "300",
+                                        "height": "100",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-4 col-lg-4 col-xl-4 centered"
+                                },
+                                {
+                                    
+                                    "b_text": [
+                                        {
+                                            "b_line": "<h2><font color='#000'>CATEGORIZAMOS LOS CLIENTES POR FRENTES EN BASE A LOS <font color=\"#7ab800\"><strong>FORMATOS y EXCLUSIVIDAD CERVEZA</strong></font></font></h2>",
+                                            "b_css":""
+                                          },
+                                        {
+                                        "b_line": "<table class='activity-5-1-4-table'><thead><tr class='activity-5-1-4-table-header'><td><b>BARRIL<br>HESA</b></td><td><b>BH<br>HESA</b></td><td><b>BARRIL<br>COMPETENCIA</b></td><td><b>BH<br>COMPETENCIA</b></td> </tr></thead><tbody><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td></tr><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td></tr><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td></tr><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ></center></td></tr></tbody></table>",
+                                        "b_css":"text-white"
+                                      }
+                                  ],
+                                  "css": "mt-10"
+                                }
+                                
+                            ]
+                        }
+                        },
+                        {
+                            "id": "0.0.6",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<center><font color='#205527'>CATEGORIZACIÓN SEGÚN LOS FORMATOS PORTAFOLIO SIH</font></center>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "EJECUCIÓN: DÓNDE",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": ""
+                                        }
+                                    ],
+                                    "css": "col-12 centered"
+                                }, 
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-3-image.png",
+                                        "width": "300",
+                                        "height": "100",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-4 col-lg-4 col-xl-4 centered"
+                                },
+                                {
+                                    
+                                    "b_text": [
+                                        {
+                                            "b_line": "<h2><font color='#000'>CATEGORIZAMOS LOS CLIENTES POR FRENTES EN BASE A LOS <font color=\"#7ab800\"><strong>FORMATOS PORTAFOLIO SIH</strong></font></font></h2>",
+                                            "b_css":""
+                                          },
+                                        {
+                                        "b_line": "<table class='activity-5-1-4-table'><thead><tr class='activity-5-1-4-table-header'><td><b>Cima SIH<br>BARISTA</b></td><td><b>En Ruta<br>SIH BARISTA</b></td><td><b>Campo Base<br>SIH BARISTA</b></td><td><b>KM 0</b></td> </tr></thead><tbody><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'><h3>CAFÉ</h3></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'><h3>CAFÉ o VINOS</h3></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ><h3>CAFÉ</h3></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ><h3>CAFÉ</h3></center></td></tr><tr><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'><h3>VINOS</h3></center></td><td class='activity-5-1-4-table-body-col-2'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'><h3>+3<br>CATEGORÍAS</h3></center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ><h3>VINOS</h3></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ><h3>VINOS</h3></center></td></tr><tr><tr><td class='activity-5-1-4-table-body-col-1'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px'><h3>+3<br>CATEGORÍAS</h3></center></td><td class='activity-5-1-4-table-body-col-2'><center></td><td class='activity-5-1-4-table-body-col-3'><center><img src='prj/5-1-4-image01.png' width ='50px' height='50px' ><h3>+3<br>CATEGORÍAS</h3></center></td><td class='activity-5-1-4-table-body-col-4'><center><img src='prj/5-1-4-image02.png' width ='50px' height='50px' ><h3>+3<br>CATEGORÍAS</h3></center></td></tr><tr></tbody></table>",
+                                        "b_css":"text-white"
+                                      }
+                                  ],
+                                  "css": "mt-10"
+                                }
+                                
+                            ]
+                        }
+                        },
+                        {
+                        "id": "0.0.7",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<center><font color='#205527'>MEDALLAS EN FUNCIÓN DEL VOLUMEN DE CERVEZA</font></center>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "EJECUCIÓN: CUÁNTO",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": "<h2><font color='#205527'>ASIGNAMOS UNA MEDALLA AUTOMÁTICA EN BASE AL <font color=\"#7ab800\">VOLUMEN DE CERVEZA</font></font></h2>"
+                                        }
+                                    ],
+                                    "css": "col-12 centered"
+                                }, 
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-6-image.png",
+                                        "width": "300",
+                                        "height": "100",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-4 col-lg-4 col-xl-4 centered mt-100"
+                                },
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": "<img src='prj/5-1-3-image01.png' width= '100px' height= '100px'>",
+                                            "b_css": "cmt-2 cmb-2 ps-color-green2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES ORO</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Más de 9.000 LITROS DE CERVEZA</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Total formatos : Barril y BH</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">HESA + Competencia</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<img src='prj/5-1-3-image02.png' width= '100px' height= '100px'>",
+                                            "b_css": "cmt-2 cmb-2 ps-color-green2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES PLATA</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Entre 3.000 y 9.000 LITROS DE CERVEZA</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Total formatos : Barril y BH</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">HESA + Competencia</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<img src='prj/5-1-3-image03.png' width= '100px' height= '100px'>",
+                                            "b_css": "cmt-2 cmb-2 ps-color-green2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES BRONCE</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Menos de 3.000 LITROS DE CERVEZA</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Total formatos : Barril y BH</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">HESA + Competencia</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        }
+                                    ],
+                                    "css": "col-8 col-lg-8 ps-color-gray mt-5"
+                                }
+                                
+                            ]
+                        }
+                    },
+                    {
+                        "id": "0.0.8",
+                            "type": "CONTENT",
+                            "type_content": "ACTIVITY_CONTENT",
+                            "status": 0,
+                            "layout": "layout-horizontal",
+                            "title": "<center><font color='#205527'>MEDALLAS EN FUNCIÓN DEL VOLUMEN DE CAFÉ / VINO</font></center>",
+                            "title_css":"mt-5",
+                            "pretitle": {
+                              "pretitle": "EJECUCIÓN: CUÁNTO",
+                              "pretitle_css": ""
+                            },
+                            "content": {
+                              "c_type": "layout1",
+                              "c_subtitle": "",
+                              "c_block": [
+                                
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": "<h2><font color='#205527'>ASIGNAMOS UNA MEDALLA AUTOMÁTICA EN BASE AL <br><font color=\"#7ab800\">VOLUMEN DE PORTAFOLIO SIH</font></font></h2>"
+                                        }
+                                    ],
+                                    "css": "col-12 centered"
+                                }, 
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-7-image.png",
+                                        "width": "300",
+                                        "height": "100",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-4 col-lg-4 col-xl-4 centered mt-50"
+                                },
+                                {
+                                    "b_text": [
+                                        {
+                                            "b_line": "<img src='prj/5-1-3-image01.png' width= '100px' height= '100px'>",
+                                            "b_css": "cmt-2 cmb-2 ps-color-green2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES ORO-CAFÉ</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Más de 400 KILOS DE CAFÉ</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES ORO-VINO DO</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Más de 1.000 LITROS VINOS D.O.*</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Easo/Euskodis +2000 Litros / año * DO</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                    
+                                        {
+                                            "b_line": "<img src='prj/5-1-3-image02.png' width= '100px' height= '100px'>",
+                                            "b_css": "cmt-2 cmb-2 ps-color-green2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES PLATA-CAFÉ</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Entre 200 y 400 KILOS DE CAFÉ</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<h2><center><font color='#205527'>CLIENTES PLATA-VINO DO</center></font></h2>",
+                                            "b_css": "text-xl cmt-2 cmb-2 "
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Entre 500 y 1.000 LITROS VINOS D.O.*</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        },
+                                        {
+                                            "b_line": "<font color=\"#205527\">Easo +1000 Litros / año     |      Euskodis +750 Litros / año * DO</font>",
+                                            "b_css": "cmt-2 cmb-2 centered"
+                                        }
+                                        
+                                    ],
+                                    "css": "col-8 col-lg-8 ps-color-gray mt-5"
+                                }
+                                
+                            ]
+                        }
+                    },
+                    {
+                        "id": "0.0.9",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<center><font color='#205527'>CATEGORIZACIÓN SEGÚN TIPOLOGÍA DE ESTABLECIMIENTO</font></center>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: QUIÉN",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            
+                            
+                            {
+                                "b_type": "image",
+                                "b_img": {
+                                    "path": "5-1-8-image.png",
+                                    "width": "300",
+                                    "height": "100",
+                                    "css": "",
+                                    "zoom": false
+                                },
+                                "css": "col-4 col-lg-4 col-xl-4 centered"
+                            },
+                            {
+                              "b_title":"<h2><font color='#205527'>CATEGORIZAMOS LOS PDV EN BASE A <br><font color=\"#7ab800\">TIPOLOGÍA DE ESTABLECIMIENTO</font></font></h2>",  
+                              "b_type": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "Es importante que cada uno de nuestros clientes esté segmentado correctamente pues nos va a ayudar a:"
+                                    },
+                                    {
+                                      "b_line": "<strong>1. Asignar un surtido adecuado.</strong>",
+                                      "b_css":" ml-5"
+                                  },
+                                  {
+                                    "b_line": "<strong>2. Orientar las herramientas que disponemos.</strong>",
+                                    "b_css":" ml-5"
+                                },
+                                    {
+                                        "b_line": "<center><img src='prj/5-1-5-image01.png' width ='70px' height='120px'></center>"
+                                    },
+                                    {
+                                      "b_line": "Incrementar el volumen de cerveza.",
+                                      "b_css":" ps-color-transparent col-lg-6 offset-lg-3"
+                                  },
+                                  {
+                                    "b_line": "Premiunizar</strong> el surtido",
+                                    "b_css":" ps-color-transparent col-lg-6 offset-lg-3"
+                                  },
+                                  {
+                                    "b_line": "Aumentar su <strong>mix</strong> y por tanto su rentabilidad",
+                                    "b_css":"ps-color-transparent col-lg-6 offset-lg-3 "
+                                  }
+                                    
+                                ],
+                                "css": "col-12 col-lg-8 centered  "
+                            }
+                            
+                            ],
+                            "css":"align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                        "id": "0.0.10",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<center><font color='#205527'>MOTOR DE CONSUMO: ¿QUÉ BUSCA EL CONSUMIDOR?</font></center>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: QUIÉN",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                              "b_title":"",  
+                              "b_type": "",
+                                "b_text": [
+                                    {
+                                        "b_line": "En concreto, esta segmentación se hizo en base a los siguientes criterios:"
+                                    },
+                                    {
+                                      "b_line": "1- Motor de consumo, bebida o comida.",
+                                      "b_css":" ml-5"
+                                  },
+                                  {
+                                    "b_line": "2- Tipo de comida o bebida.",
+                                    "b_css":" ml-5"
+                                },
+                                    {
+                                        "b_line": "3- Ocasión de Consumo.",
+                                        "b_css":" ml-5"
+                                    },
+                                    {
+                                      "b_line": "4- Motivaciones del consumidor, es decir por qué va un consumidor a ese sitio… ¿qué espera encontrar? ¿Es para satisfacer una necesidad básico o busca algo experiencial?",
+                                      "b_css":"ml-5 "
+                                  },
+                                  {
+                                    "b_line": "En cruce de estas variables nos determina el segmento.",
+                                    "b_css":" "
+                                  },
+                                  {
+                                    "b_line": "Estas cuatro preguntas serán el segmentador que nos hará elegir el segmento en Sales Force.",
+                                    "b_css":"ps-color-transparent "
+                                  }
+                                    
+                                ],
+                                "css": "col-12 col-lg-10   "
+                            },
+                            {
+                              "b_type": "image",
+                              "b_img": {
+                                "path": "0-0-10-image.jpg",
+                                "width": "",
+                                "height": "",
+                                "zoom": false
+                              },
+                              "css": "col-12 centered"
+                            }
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                        "id": "0.0.11",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-12-image01.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones de consumo (principales)</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>La tarde es el momento por excelencia, aunque es también durante las primeras capas de la noche cuando se acude a estos establecimientos.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Busca vivir una expreiencia cervecera.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Se trata de un consumidor más diferencial.</font>"
+                                          },
+                                          {
+                                            "b_line": "<font color='#000'>Público dispuesto a desplazarse hasta el local.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>El pagar 'algo más' está justificado.</font>"
+                                          }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Ambientes cerveceros auténticos, donde se hace un 'culto' a esta bebida.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>La gran diversidad de cervezas disponibles es una de sus principales características.</font>"
+                                    },
+                                    {
+                                      "b_line": "<font color='#000'>Mejor calidad en el servicio y atención personalizada.</font>"
+                                    },
+                                    {
+                                        "b_line": "<font color='#000'>Precio alto (comparativo con la zona).</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV HORECA</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Cervecerías internacionales.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Cervecerías premium.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Microcervecerías.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    }, 
+                    {
+                        "id": "0.0.12",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-12-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Aperitivo tanto en el momento mañana como tarde.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>El momento desayuno no tiene gran presencia.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Tomar una cerveza bien tirada en la mejor compañía posible.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Generar un momento que disfrute en torno a una buena cerveza.</font>"
+                                          }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Son locales con esencia y tradición, destacando en buena medida por su carácter regional (andaluz, castizo, taurino...)</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>La comida ocupa un plano totalmente secundario.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12  col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Cervecerías (no artesanales).</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.13",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-13-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: comida & cena.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Se toma también como lugar de celebración para quedar bien).</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Buscan vivir una experiencia gastro única.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Salirse de la norma, abrazar nuevas tendencias.</font>"
+                                          },
+                                          {
+                                            "b_line": "<font color='#000'>La propuesta gastro es el motor de la visita.</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Comida de carta o con menúns sofisticados. Precios más elevados.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>La decoración acompaña la experiencia gastro.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Con carta de vino extensa.</font>"
+                                    },
+                                    {
+                                        "b_line": "<font color='#000'>Está de moda en la zona.</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Restaurantes sofisticados.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Gastro-bares, nueva gastronomía.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Restaurantes internacionales, temáticos.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Mesones, asaderos, rest. con tradición, auténticos.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.14",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-14-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: Todos los momentos y 7 días (no cierra).</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Adecuan su oferta a cada momento de consumo: Dulces, menús, espacios, oferta de bebidas.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Trabaja experiencial y sofisticadamente todas las ocasiones de consumo.</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Busca un momento especial.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Una oferta diferencial y actual.</font>"
+                                          },
+                                          {
+                                            "b_line": "<font color='#000'>Momento Instagram.</font>"
+                                        },
+                                        {
+                                            "b_line": "<font color='#000'>Sofisticación en cada uno de los momentos del día.</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Muy profesionalizados, con un despliegue amplio de equipos.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Están en la tendencia (estética, oferta de producto, etc.).</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Identidad muy definida.</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Espacios muy cuidadosos y coherentes en su identidad (oferta de calidad).</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.15",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-15-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: Tarde-noche y noche.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Aprovechan más momentos del día iniciando la actividad desde la media tarde - esto favorece la apuesta por bebidas de menos graduación que los spirits.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>El consumo de cerveza se amplia cada vez más en horario.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Se trata de un consumidor que va siendo cada vez más sofisticado.</font>"
+                                          }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Locales con propuesta de ocio adicional: billar, dardos, futbolín...</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Cerveza en grifo tiene menor presencia.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Bares de copas/terrazas de noche.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Salas de concierto.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Salas de espectáculo.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Discotecas.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.16",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A PRIORIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-16-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: aperitivo/tarde y tapeo (afterwork, antes de la cena).</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Donde poder ver partidos de fútbol.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Establecimiento de picoteo/pinchos, raciones.</font>"
+                                    },
+                                    {
+                                        "b_line": "<font color='#000'>Dan tapa gratis con la bebida.</font>"
+                                    },
+                                    {
+                                        "b_line": "<font color='#000'>El desayuno tiene bastante relevancia en el negocio.</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Se busca socializar en torno a un momento y un lugar.</font>"
+                                          }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Camareros poco profesionalizados/han aprendido con el día a día.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Presencia de marcas en mobiliario/ decoración, cartelería multimarca.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Gestión más familiar.</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Bares.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Cervecerías (no artesanales).</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.17",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A OPTIMIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-17-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: la comida.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Con recorrido en la cena (raciones abundantes).</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Clientes que trabajan en la zona o de paso.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>Buscan 'calmar' el estómago.</font>"
+                                          },
+                                          {
+                                            "b_line": "<font color='#000'>No demandan sofisticación y sí practicidad (economía, de tiempos, etc.).</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Presencia también deplatos combinados o del día.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Disponen de máquinas tragaperras & tabaco.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Se están incorporando al momento brunch (poco elaborado).</font>"
+                                    }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Bares - restaurantes.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Buffets.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Internacionales poco sofisticadas.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.18",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "title": "<font color='#205527'>CANALES A DES-OPTIMIZAR</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                            "pretitle": "EJECUCIÓN: QUIÉN"
+                        },
+                        "content": {
+                            "c_type": "layout1",
+                            "c_block": [
+                                
+                                {
+                                    "b_type": "image",
+                                    "b_img": {
+                                        "path": "5-1-18-image.png",
+                                        "width": "",
+                                        "height": "",
+                                        "css": "",
+                                        "zoom": false
+                                    },
+                                    "css": "col-12 col-lg-12 col-xl-12 centered" 
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Ocasiones y Momentos</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Momentos relevantes: desayuno y merienda.</font>"
+                                      },
+                                      {
+                                          "b_line": "<font color='#000'>Gran disfrute en el consumo.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Consumidores</font>",
+                                    "b_list": [
+                                        {
+                                            "b_line": "<font color='#000'>Realizan un consumo tranquilo y pausado.</font>"
+                                          },
+                                          {
+                                              "b_line": "<font color='#000'>El conversar está en la esencia de la visita.</font>"
+                                          },
+                                          {
+                                            "b_line": "<font color='#000'>Se busca diversidad en cafés y dulces.</font>"
+                                        }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light",
+                                    "b_title":"<font color='#205527'>Características</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Ofrencen amplia variedad de tipos de leche.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                },
+                                {
+                                    "b_type":"featured featured-light ",
+                                    "b_title":"<font color='#205527'>Tipos PdV</font>",
+                                    "b_list": [
+                                      {
+                                        "b_line": "<font color='#000'>Cafeterías premium.</font>"
+                                      },
+                                      {
+                                        "b_line": "<font color='#000'>Cafeterías 'de toda la vida'.</font>"
+                                      }
+                                    ],
+                                    "css": "col-12 col-md-6 col-lg-3"
+                                }
+                            ],
+                            "css": "col-12 col-lg-12 justify-content-center align-items-stretch"
+                        }
+                    },
+                    {
+                        "id": "0.0.19",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<font color='#205527'>AGRUPACIÓN POR 3 NIVELES DE PRIORIDAD</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: QUIÉN",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                              "b_text":[
+                                
+                                {
+                                  "b_line":"Con el objetivo de DIRIGIR nuestros esfuerzos y decidir DÓNDE invertimos los recursos según las variables que vemos en el cuadro de abajo: volumen, contribución, qué peso tiene la cerveza y portafolio SIH en su facturación, y nº de referencias recomendadas para cada canal."
+                                }
+                              ]
+                            },
+                            {
+                              "b_type": "image",
+                              "b_img": {
+                                "path": "5-1-20-image.png",
+                                "width": "2000",
+                                "height": "",
+                                "zoom": false
+                              },
+                              "css": "col-12"
+                            }
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                      "id": "0.0.20",
+                      "type": "CONTENT",
+                      "type_content": "ACTIVITY_VIDEO",
+                      "video_content": true,
+                      "video_mandatory": true,
+                      "video_firstime_fullscreen": false,
+                      "status": 0,
+                      "title": "<font color='#205527'>CUSTOMER PERSONA</font>",
+                        "title_css":"mt-5",
+                      "pretitle": {
+                          "pretitle": "EJECUCIÓN: CÓMO",
+                          "pretitle_css": ""
+                      },
+                      "subtitle": "",
+                      "content": {
+                          "c_block": [
+                            {
+                              "b_text": [
+                                  {
+                                      "b_line": "<img src='prj/5-1-19-image.png' width='200'>"
+                                  }
+                          ],
+                          "css": "col-4 mt-5"
+                      },
+                              {
+                                  "b_type": "video",
+                                  "b_video": {
+                                      "duration": "",
+                                      "path": "0-0-20-video.m4v",
+                                      "poster": "0-0-20-cover.png",
+                                      "tracks": [
+
+                                      ],
+                                      "is_background": false,
+                                      "controls": true,
+                                      "autoplay": false,
+                                      "fullscreen": true,
+                                      "download": false,
+                                      "popover": false,
+                                      "mute": false,
+                                      "css": "br-3 br-lg-5"
+                                  },
+                                  "css": "col-8 col-lg-7 p-0  br-3 br-lg-5"
+                              }
+                              
+                          ],
+                          "css": "align-items-center justify-content-center text-center"
+                      },
+                      "style": "{'background': 'radial-gradient(34.51% 55.54% at 50% 59.63%, rgba(255, 255, 255, 0.8) 0%, rgba(7, 38, 83, 0) 100%), rgba(7,38, 83, 0)', 'backdrop-filter': 'blur(4px)'}"
+                    },
+                    {
+                        "id": "0.0.21",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<font color='#205527'>PERFIL CP</font>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: CÓMO",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                              "b_type": "image",
+                              "b_img": {
+                                "path": "5-1-21-image.png",
+                                "width": "2000",
+                                "height": "",
+                                "zoom": false
+                              },
+                              "css": "col-12"
+                            }
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                        "id": "0.0.22",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<center><font color='#205527'>IRONMAN: SEGMENTACIÓN EN TABLET SFA</font></center>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: CÓMO",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                              "b_type":"featured featured-light",
+                              "b_title":"",
+                              "b_list": [
+                                {
+                                  "b_line": "Perfil Customer Persona hay que indicarlo y se puede modificar."
+                                },
+                                {
+                                    "b_line": "Canal Horeca según Gestor hay que indicarlo y se puede modificar."
+                                },
+                                {
+                                  "b_line": "Canal Horeca definitivo se actualiza con la información de Canal según gestor."
+                                },
+                                {
+                                  "b_line": "Frente."
+                                },
+                                {
+                                  "b_line": "OPB CE es automático según consumos."
+                                },
+                                {
+                                  "b_line": "OPB CE Potencial declarativo."
+                                },
+                                {
+                                  "b_line": "OPB Segmentación Portafolio SIH (café, vinos) -aut por volumen."
+                                },
+                                {
+                                  "b_line": "OPB Competencia Portafolio SIH (café, vinos) -declarativo."
+                                }
+                              ],
+                              "css": "col-12 col-lg-6   "
+                          },
+                          {
+                                "b_type": "image",
+                                "b_img": {
+                                    "path": "5-1-22-image.png",
+                                    "width": "2000",
+                                    "height": "130",
+                                    "css": "",
+                                    "zoom": false
+                                },
+                                "css": "col-12 col-lg-6"
+                            }
+                            
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                        "id": "0.0.23",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<center><font color='#205527'>IRONMAN: BARÓMETRO PERFIL</font></center>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: CÓMO",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                                "b_type": "image",
+                                "b_img": {
+                                    "path": "5-1-23-image-01.jpg",
+                                    "width": "2000",
+                                    "height": "130",
+                                    "css": "",
+                                    "zoom": false
+                                },
+                                "css": "col-12 col-lg-6   "
+                            },
+                            {
+                              "b_type": "image",
+                              "b_img": {
+                                  "path": "5-1-23-image-02.jpg",
+                                  "width": "2000",
+                                  "height": "130",
+                                  "css": "",
+                                  "zoom": false
+                              },
+                              "css": "col-12 col-lg-6   "
+                          }
+                            
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    },
+                    {
+                        "id": "0.0.24",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_CONTENT",
+                        "status": 0,
+                        "layout": "layout-horizontal",
+                        "title": "<center><font color='#205527'>IRONMAN: SEGMENTADOR CANAL</font></center>",
+                        "title_css":"mt-5",
+                        "pretitle": {
+                          "pretitle": "EJECUCIÓN: CÓMO",
+                          "pretitle_css": ""
+                        },
+                        "content": {
+                          "c_type": "layout1",
+                          "c_subtitle": "",
+                          "c_block": [
+                            {
+                                "b_type": "image",
+                                "b_img": {
+                                    "path": "5-1-24-image.png",
+                                    "width": "2000",
+                                    "height": "130",
+                                    "css": "",
+                                    "zoom": false
+                                },
+                                "css": "col-12"
+                            }
+                            
+                          ],
+                          "css": "align-items-center justify-content-center"
+                        }
+                    } 
+                    ]
+                },
+                {
+                  "id": "0.1",
+                  "type": "SECTION",
+                  "status": 0,
+                  "menu_section": {
+                    "ico": "",
+                    "img_bg": "0-1-cover.jpg",
+                    "menu_prev": true,
+                    "time": "5 minutos",
+                    "tags": [
+                      {
+                        "name": "Quiz"
+                      }
+                    ]
+                  },
+                  
+                  "title": "4.3 Segmentación del mercado: Test final",
+                  "activities": [  
+                    {
+                      "id": "0.1.0",
+                      "type": "CONTENT",
+                      "type_content": "ACTIVITY_CONTENT",
+                      "status": 0,
+                      "layout": "layout-horizontal",
+                      "title": "",
+                      "subtitle":"",
+                      "content": {
+                        "c_type": "layout1",
+                        "c_subtitle": "",
+                        "c_block": [
+                          {
+                            "b_type":" ",
+                            "b_title":"<font color='#97bf0d'><h1>¡Enhorabuena!</font><br><font color='#205527'>Has completado todos los contenidos de este capítulo.</font></center>",
+                            "b_text": [
+                              
+                            ],
+                            "css": "col-12 col-lg-12 mt-5 centered"
+                          },
+                          {
+                            "b_type": "image",
+                            "b_title":"",
+                            "b_img": {
+                              "path": "0-0-1-image.png",
+                              "width": "",
+                              "height": "",
+                              "zoom": false
+                            },
+                            "css": "col-12 col-lg-6 centered  "
+                          },
+                          {
+                            "b_type":" ",
+                            "b_title":"",
+                            "b_text": [
+                              {
+                                "b_line": "Para finalizar, vas a llevar a cabo una <strong>evaluación sobre esos contenidos</strong>."
+                              },
+                              {
+                                "b_line": "La evaluación consiste en <strong>5 preguntas</strong> y para superarlas tienes que responder correctamente <strong>al menos al 60%</strong> de ellas. "
+                              },
+                              {
+                                "b_line": "Si no las superas puedes volver a realizarla. "
+                              },
+                              {
+                                "b_line": "Tendrás <strong>2 intentos</strong> en total."
+                              }
+                            ],
+                            "css": "col-12 col-lg-6 mt-5 centered ps-color-transparent"
+                          }
+                        ],
+                        "css": "justify-content-center align-items-center"
+                      }
+                    }
+        
+        
+                  ]
+                },
+                {
+                  "id": "0.2",
+                  "type": "SECTION",
+                  "status": 0,
+                  "menu_section": {
+                    "ico": "",
+                    "img_bg": "0-2-cover.jpg",
+                    "menu_prev": true,
+                    "time": "5 minutos",
+                    "tags": [
+                      {
+                        "name": "Quiz"
+                      }
+                    ]
+                  },
+                  
+                  "title": "4.3 Segmentación del mercado: Test final",
+                  "activities": [  
+                                        
+                      {
+                          "id": "0.2.0",
+                          "type": "CONTENT",
+                          "type_content": "ACTIVITY_TEST",
+                          "validation_auto": false,
+                          "mandatory": false,
+                          "save_info": true,
+                          "status": 0,
+                          "title": "",
+                          "b_subtitle": "",
+                          "random": true,                            
+                          "feedback_review": false,
+                          "id_quiz": ""
+                      }, 
+                      {
+                          "id": "0.2.1",
+                          "type": "CONTENT",
+                          "type_content": "ACTIVITY_TEST",
+                          "validation_auto": false,
+                          "mandatory": false,
+                          "save_info": true,
+                          "status": 0,
+                          "title": "",
+                          "b_subtitle": "",
+                          "random": true,                            
+                          "feedback_review": false,
+                          "id_quiz": ""
+                      }, 
+                      {
+                          "id": "0.2.2",
+                          "type": "CONTENT",
+                          "type_content": "ACTIVITY_TEST",
+                          "validation_auto": false,
+                          "mandatory": false,
+                          "save_info": true,
+                          "status": 0,
+                          "title": "",
+                          "b_subtitle": "",
+                          "random": true,                            
+                          "feedback_review": false,
+                          "id_quiz": ""
+                      }, 
+                      {
+                          "id": "0.2.3",
+                          "type": "CONTENT",
+                          "type_content": "ACTIVITY_TEST",
+                          "validation_auto": false,
+                          "mandatory": false,
+                          "save_info": true,
+                          "status": 0,
+                          "title": "",
+                          "b_subtitle": "",
+                          "random": true,                            
+                          "feedback_review": false,
+                          "id_quiz": ""
+                      }, 
+                      {
+                          "id": "0.2.4",
+                          "type": "CONTENT",
+                          "type_content": "ACTIVITY_TEST",
+                          "validation_auto": false,
+                          "mandatory": false,
+                          "save_info": true,
+                          "status": 0,
+                          "title": "",
+                          "b_subtitle": "",
+                          "random": true,                            
+                          "feedback_review": false,
+                          "id_quiz": ""
+                      },
+                      {
+                        "id": "0.2.5",
+                        "type": "CONTENT",
+                        "type_content": "ACTIVITY_FINAL_TEST",
+                        "validation_auto": false,
+                        "mandatory": false,
+                        "save_info": true,
+                        "status": 0,
+                        "finishCourse": true,
+                                        "navigation": {
+                                            "disable_nav_prev": false,
+                                            "disable_nav_next": true,
+                                            "hidden_nav_next": true
+                                        },
+                        "title": "",
+                        "b_subtitle": "",
+                        "random": false,
+                        "id_quiz": "5"
+                      }
+        
+        
+                  ]
+                }           
+                
+            ]
+        }
+    ]
+}

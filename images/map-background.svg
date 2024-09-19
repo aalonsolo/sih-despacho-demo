@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1025px" viewBox="0 0 1600 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1600" height="1024"></rect>
+        <linearGradient x1="0%" y1="57.0249911%" x2="82.634536%" y2="57.0249911%" id="linearGradient-3">
+            <stop stop-color="#072146" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#072146" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background">
+            <g id="Mask" fill="#072146" fill-rule="nonzero">
+                <rect id="path-1" x="0" y="0" width="1600" height="1024"></rect>
+            </g>
+            <g id="Group-Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Group" opacity="0.07" mask="url(#mask-2)">
+                    <g transform="translate(-77.000000, -72.000000)">
+                        <g>
+                            <path d="M117.195396,0.0160172373 C110.032246,-2.0242321 34.1691165,191.527709 34.1691165,191.527709 L1749.74351,215.169584" id="Fill-1" fill="#6B5BAC"></path>
+                            <g id="Fill-5" transform="translate(65.000000, 767.000000)" fill="#6B5BAC">
+                                <polyline id="path-3" points="1710.7543 121.374105 0.4908066 0.725074 11.2359176 329.5042 1819.99626 274.3673"></polyline>
+                            </g>
+                            <polyline id="Fill-8" fill="#6B5BAC" points="1672.863 556.579664 0 502.636147 16.1369421 533.564308 1619.07319 567.924867 1624.45217 614.55813 23.3089163 606.987488 21.5159228 719.527087 1672.21214 689.89011"></polyline>
+                            <polyline id="Fill-10" fill="#6B5BAC" points="1722.69296 249.596717 41.2876824 251.634848 45.5218228 359.763544 1652.16039 337.257918"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" x="1369" y="0" width="231" height="1025"></rect>
+        </g>
+    </g>
+</svg>

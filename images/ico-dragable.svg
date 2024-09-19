@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test/d&amp;d/button" transform="translate(-5.000000, -17.000000)" fill="#103567" fill-rule="nonzero">
+            <g id="Group-5">
+                <path d="M5,17 L7,17 L7,19 L5,19 L5,17 Z M8,17 L10,17 L10,19 L8,19 L8,17 Z M5,20 L7,20 L7,22 L5,22 L5,20 Z M8,20 L10,20 L10,22 L8,22 L8,20 Z M5,23 L7,23 L7,25 L5,25 L5,23 Z M8,23 L10,23 L10,25 L8,25 L8,23 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

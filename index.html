@@ -1,0 +1,185 @@
+<!doctype html>
+<html ng-app="app" ng-strict-di lang="en">
+
+    <head>
+        
+        <base href="">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no, shrink-to-fit=no">
+        <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+        <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=Edge,chrome=1"/>
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta name="mobile-web-app-capable" content="yes">
+        <title>Segmentación del mercado</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+        <meta name="COUNTRY" content="ES" />
+        <meta name="LANGUAGE" content="ES" />
+        <link rel="stylesheet" type="text/css" href="css/vendor/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/vendor/animate.css">
+        <link rel="stylesheet" type="text/css" href="css/vendor/hover-min.css">
+        <link rel="stylesheet" type="text/css" href="css/vendor/pure-drawer.min.css">
+        <link rel="stylesheet" type="text/css" href="css/vendor/angular-tooltips.min.css">
+
+        <!-- <link href="css/prettify.min.css" type="text/css" rel="stylesheet" /> -->
+        <!-- <link href="css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet"> -->
+        <link href="css/tooltipster.bundle.min.css" type="text/css" rel="stylesheet" />
+        <link href="css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css" type="text/css"
+              rel="stylesheet" />
+        <link href="css/pinchzoomer.min.css" type="text/css" rel="stylesheet">
+        <link href="prj/styles.css" type="text/css" rel="stylesheet">
+        <!-- <link href="css/preview.min.css" type="text/css" rel="stylesheet"> -->
+
+    </head>
+
+    <body>
+    <app-parent></app-parent>
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.parallax.js"></script>
+    <script src="js/jquery.parallax.js"></script>
+    <script src="js/wow.js"></script>
+
+    <!-- <script src="js/prettify.min.js" type="text/javascript"></script> -->
+    <script src="js/tooltipster.bundle.min.js" type="text/javascript"></script>
+    <script src="js/hammer.min.js" type="text/javascript"></script>
+    <script src="js/TweenMax.min.js" type="text/javascript"></script>
+    <script src="js/jquery.pinchzoomer.min.js" type="text/javascript"></script>
+    <!-- <script src="js/preview.min.js" type="text/javascript"></script> -->
+
+    <script src="js/scorm/APIWrapper.js"></script>
+    <script src="js/scorm/SCOFunctions.js"></script>
+    <script src="js/scorm/ps-scorm.js"></script>
+
+<script type="text/javascript" src="app.becf69da687d561b7413.js"></script><script type="text/javascript">
+    $(document).ready(function(){
+            $(document).on("click", ".btn-close-course", function(){
+                doLMSFinish()
+                parent.location.href="../../../lanzadornetflex/index.html"
+            });
+        });
+</script></body><style>
+    .card-title {
+    margin-bottom: .75rem;
+    font-size: x-large;
+    }
+    .card {
+        background-color: #e1e1e1;
+    }
+    
+    .ps-table {
+        border-collapse: collapse;
+    }
+    .ps-table td {
+        border: 1px solid #FFF;
+        font-size: 1.8rem;
+    }
+    .ps-table td ul li {
+        font-size: 1.8rem;
+    }
+    .ps-table-2 {
+        border-collapse: collapse;
+    }
+    .ps-table-2 td {
+        border: 1px solid #FFF;
+        border-left-width: 1rem;
+        border-right-width: 1rem;
+        border-top-width: 0;
+        border-bottom-width: 0;
+        font-size: 1.8rem;
+    }
+    .ps-table-2 td ul li {
+        font-size: 1.8rem;
+    }
+
+/*Cajetines de numeros */
+    
+    activity-tutorial .stutorial .tip.right h4 .circle-number {
+    background: #5a9e12!important;
+}
+    activity-tutorial .stutorial .tip .tip-content {
+    background: #92D050!important;}
+
+    /* index */
+
+    module-header header {
+    background: #92D050!important;
+}
+/* Barra lateral */
+app-parent ::-webkit-scrollbar-thumb {
+    background: #92d050;
+}
+
+/* Texto cajetín y titulo cajetín */
+
+featured.featured-block:not(.featured-box) h3 {
+    background: linear-gradient(-28deg, #fff 0%, #ade075 100%)!important;
+}
+
+featured.featured-block:not(.featured-box):not(.featured-light) .featured {
+    background-color: #92d050!important;
+}
+
+/* Botones avanzar y retroceder */
+pagination-menu .pagination-container > .page-indicator {
+    color: #c9c9c9!important;
+    background: #97bf0d!important;
+}
+h1 .h1 {
+    color:#042c09!important;
+}
+  /* Header */
+  module-header header {
+    background: #97bf0d!important;
+    }
+
+    /* Botón comenzar curso */
+    .btn.btn-netflix, .btn.btn-netflix:active, .btn.btn-netflix:not([href]):not([tabindex]), .btn.btn-netflix:not([href]):not([tabindex]):active{
+        background: #97bf0d;
+        border-color: #97bf0d;
+    }
+    .btn.btn-netflix:hover, .btn.btn-netflix:active, .btn.btn-netflix:not([href]):not([tabindex]):hover, .btn.btn-netflix:not([href]):not([tabindex]):active {
+    background: #344d02;
+    border-color: #344d02;
+}
+
+    /* Numeración */
+    activity-tutorial .list-ic li.active span {
+    background: #143618;
+    color: rgb(255, 255, 255);
+    }
+
+    /* Borde cuadro */
+    activity-tutorial .stutorial .tip.right .tip-content {
+    border-left: 4px solid #c3c3c3;
+
+   }
+    /*Boton continuar*/
+    .btn.btn-primary:not([tabindex]) {
+    background: #7ab800;
+    color: #ffffff;
+    }
+    .btn.btn-primary:not([tabindex]):hover, .btn.btn-primary:not([tabindex]):active {
+    background: #143618;
+}
+.activity activity-test .ps-activity-test-action-btn-ok{
+    background: #143618  !important;
+    color: #ffffff !important;
+}
+.activity activity-test .ps-activity-test-action-btn-ko {
+    background: #143618 !important;
+    color: #ffffff !important;
+}
+.activity activity-test .testcontent .page-indicator, .activity mines-weeper-test .testcontent .page-indicator{
+    background: #fff !important;
+    color: #205527!important;
+}
+pagination-menu .pagination-container > .page-indicator {
+    color: #97bf0d!important;
+    background: #272727!important;
+}
+    
+</style>
+
+</html>

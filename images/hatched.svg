@@ -1,0 +1,30 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="1600.01862 0.641412206 1600.01862 457.843011 0 458.199054"></polygon>
+        <polygon id="path-3" points="1600.14789 305.422061 1600.14789 458.122881 0.390976281 458.122881"></polygon>
+        <polygon id="path-5" points="400 -152 1600.08185 305.509532 1600.08179 458.358521 0.0860639613 458.35852"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer/component/module_icon" transform="translate(889.000000, 175.000000)">
+            <g id="drive-your-money" transform="translate(-889.000000, -23.000000)">
+                <g id="Group-2">
+                    <g id="bg">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Rectangle-5" fill="#5BBEFF" opacity="0.1" xlink:href="#path-1"></use>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle-5" fill="#5BBEFF" opacity="0.1" xlink:href="#path-3"></use>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Path-16" fill="#5BBEFF" opacity="0.1" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,188 @@
+{
+    "quizs": {
+        "0.2":[
+            
+         {   
+            "id": "1",
+             "qType": "TEST_TYPE.SINGLE_OPTION",
+             "qTitle": "¿Para poder realizar una ejecución con excelencia en el mercado, situando a nuestro cliente en el centro, ¿cuál es el primer paso que se debe realizar (es primordial)?",
+             "instructions": "Selecciona la opción que consideres correcta",
+             "feedback_ok": "¡Correcto!",
+             "feedback_ko": "¡Incorrecto!",               
+             "topic": "",
+             "options_order_random": false,
+             "options": [
+                 {
+                     "id": "1",
+                     "text":"Tener una correcta planificación de visita, así el cliente es conocedor de el día que el Ironman lo va a visitar.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "2",
+                     "text": "Segmentar al cliente con calidad. Conocer qué tipo de clientes tienes enfrente te ayudará a darle mayor calidad de servicio.",
+                     "correct": true,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "3",
+                     "text": "Debes tener claro qué planes comerciales están en vigor y a qué clientes se dirigen.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "4",
+                     "text": "Debes consultar los informes de seguimientos de ventas para estar al corriente de tus objetivos mensuales y ponerle foco.",
+                     "correct": false,
+                     "feedback": ""
+                 }
+             ]
+         },
+         {
+             "id": "2",
+             "qType": "TEST_TYPE.SINGLE_OPTION",
+             "qTitle": "Para poder segmentar correctamente a los clientes debes conocer: DÓNDE, CUANTO, QUÉ, QUIÉN. Señala las respuesta correcta:",
+             "instructions": "Selecciona la opción que consideres correcta",
+             "feedback_ok": "¡Correcto!",
+             "feedback_ko": "¡Incorrecto!",               
+             "topic": "",
+             "options_order_random": false,
+             "options": [
+                 {
+                     "id": "1",
+                     "text": "QUÉ es el Canal (tipo de establecimiento): Cervecería, Santuario de la cerveza, El Bar, Cafetería,... Son los que determinan el surtido y la visbilidad en el punto de venta.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "2",
+                     "text": "CUANTO (ORO, PLATA y BRONCE), determinado por el consumo del punto de venta, y muestra la rentabilidad.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "3",
+                     "text": "DÓNDE (CIMA, CAMPO BASE, EN RUTA y KM 0)  en función de la cantidad de consumo del cliente determinará los presupuestos de los que disponemos para el cliente y la recurrencia de visita.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "4",
+                     "text": "Todas las anteriores son correctas.",
+                     "correct": true,
+                     "feedback": ""
+                 }
+             ]
+         },
+         {
+             "id": "3",
+            "qType": "TEST_TYPE.SINGLE_OPTION",
+            "qTitle": "En relación al DÓNDE... ¿Cómo podemos categorizar al cliente que nos consume BARRIL de CERVEZA y diferentes formatos de Botella de Hostelería de nuestras marcas pero que tiene la sin gluten y las sin alcohol de Botellas de Hostelería de la competencia?",
+            "instructions": "Selecciona la respuesta que consideres correcta.",
+             "feedback_ok": "¡Correcto!",
+             "feedback_ko": "¡Incorrecto!",               
+             "topic": "",
+             "options_order_random": false,
+             "options": [
+                 {
+                     "id": "1",
+                     "text": "Cliente en CIMA ya que los formatos principales de cerveza con nuestros. Las ventas del resto de formatos es sólo residual.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "2",
+                     "text": "Kilométro 0. Debemos tener todos los formatos en el punto de venta para considerarlo cliente.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "3",
+                     "text": "Cliente En RUTA.",
+                     "correct": true,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "4",
+                     "text": "La respuesta a y c son correctas.",
+                     "correct": false,
+                     "feedback": ""
+                 }
+             ]
+         },
+         {
+             "id": "4",
+            "qType": "TEST_TYPE.SINGLE_OPTION",
+            "qTitle": "Categorizar correctamente un punto de venta según el tipo de establecimiento nos va a ayudar a asignarle un surtido adecuado (PICOs) y a orientar las herramientas de las que disponemos. Gracias a ello también conseguiremos:",
+            "instructions": "Selecciona la opción que consideres correcta",
+             "feedback_ok": "¡Correcto!",
+             "feedback_ko": "¡Incorrecto!",               
+             "topic": "",
+             "options_order_random": false,
+             "options": [
+                 {
+                     "id": "1",
+                     "text": "Planificar mejor nuestras visitas diarias.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "2",
+                     "text": "Disponer de más tiempo para captar y saturar en otros establecimientos.",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "3",
+                     "text": "Incrementar el volumen del portafolio dentro del punto den venta y aumentar así el mix y la rentabilidad del cliente.",
+                     "correct": true,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "4",
+                     "text": "Ninguna de las anteriores.",
+                     "correct": false,
+                     "feedback": ""
+                 }
+             ]
+         },
+         {
+            "id": "5",
+            "qType": "TEST_TYPE.SINGLE_OPTION",
+            "qTitle": "El motor de consumo en nuestros clientes es muy diverso. El conocer qué busca el consumidor en el punto de venta, nos ayuda a conocer el CANAL, el QUÉ. Selecciona la opción cuyo motivo que se corresponda con su canal:",
+            "instructions": "Selecciona la respuesta que consideres correcta.",
+            "feedback_ok": "¡Correcto!",
+            "feedback_ko": "¡Incorrecto!",
+            "topic": "",
+            "options_order_random": false,
+            "options": [
+                 {
+                     "id": "1",
+                     "text": "Punto de venta funcional, poca sofisticación > (CAFETERÍA).",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "2",
+                     "text": "De LUNES A Domingo. 7D (L a D) Buscar la experiencia diferenciación lo especial > (EXPERIENCIA GASTRONÓMICA)",
+                     "correct": true,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "3",
+                     "text": "Desconexión y diversión, más premium > (SANTUARIO DE LA CERVEZA).",
+                     "correct": false,
+                     "feedback": ""
+                 },
+                 {
+                     "id": "4",
+                     "text": "Descubrir, Degustar y Autenticidad > (BAR).",
+                     "correct": false,
+                     "feedback": ""
+                 }
+             ]
+         }
+         
+     ]
+    }
+}

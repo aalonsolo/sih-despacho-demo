@@ -1,0 +1,8 @@
+<svg width="20" height="27" viewBox="0 0 20 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="27">
+<rect width="19.55" height="27" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="-5.5" y1="26.5" x2="20.5" y2="26.5" stroke="#103567" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 6"/>
+</g>
+</svg>
